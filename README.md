@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/niraj-prasad505/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/niraj-prasad505/LeetCode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/niraj-prasad505/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/niraj-prasad505/LeetCode/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/niraj-prasad505/LeetCode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/niraj-prasad505/LeetCode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/niraj-prasad505/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
