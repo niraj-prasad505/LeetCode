@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/niraj-prasad505/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0682-baseball-game](https://github.com/niraj-prasad505/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/niraj-prasad505/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/niraj-prasad505/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/niraj-prasad505/LeetCode/tree/master/0877-stone-game) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/niraj-prasad505/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/niraj-prasad505/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0682-baseball-game](https://github.com/niraj-prasad505/LeetCode/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/niraj-prasad505/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/niraj-prasad505/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/niraj-prasad505/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
