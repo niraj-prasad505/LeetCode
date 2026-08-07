@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/niraj-prasad505/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/niraj-prasad505/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/niraj-prasad505/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/niraj-prasad505/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/niraj-prasad505/LeetCode/tree/master/0704-binary-search) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/niraj-prasad505/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/niraj-prasad505/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/niraj-prasad505/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Matrix
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/niraj-prasad505/LeetCode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/niraj-prasad505/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/niraj-prasad505/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/niraj-prasad505/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/niraj-prasad505/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -91,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/niraj-prasad505/LeetCode/tree/master/0682-baseball-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/niraj-prasad505/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/niraj-prasad505/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
