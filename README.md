@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niraj-prasad505/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/niraj-prasad505/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/niraj-prasad505/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/niraj-prasad505/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/niraj-prasad505/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/niraj-prasad505/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/niraj-prasad505/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/niraj-prasad505/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/niraj-prasad505/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/niraj-prasad505/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/niraj-prasad505/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/niraj-prasad505/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/niraj-prasad505/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
