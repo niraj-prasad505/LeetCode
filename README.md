@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/niraj-prasad505/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/niraj-prasad505/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/niraj-prasad505/LeetCode/tree/master/0877-stone-game) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/niraj-prasad505/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/niraj-prasad505/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/niraj-prasad505/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/niraj-prasad505/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/niraj-prasad505/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/niraj-prasad505/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
 |  |
 | ------- |
