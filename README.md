@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/niraj-prasad505/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0622-design-circular-queue](https://github.com/niraj-prasad505/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/niraj-prasad505/LeetCode/tree/master/0641-design-circular-deque) |
 ## Sliding Window
@@ -216,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/niraj-prasad505/LeetCode/tree/master/0853-car-fleet) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/niraj-prasad505/LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
