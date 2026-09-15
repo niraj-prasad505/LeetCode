@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/niraj-prasad505/LeetCode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/niraj-prasad505/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0412-fizz-buzz](https://github.com/niraj-prasad505/LeetCode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/niraj-prasad505/LeetCode/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/niraj-prasad505/LeetCode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/niraj-prasad505/LeetCode/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/niraj-prasad505/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/niraj-prasad505/LeetCode/tree/master/0049-group-anagrams) |
+| [0412-fizz-buzz](https://github.com/niraj-prasad505/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/niraj-prasad505/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/niraj-prasad505/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/niraj-prasad505/LeetCode/tree/master/0567-permutation-in-string) |
