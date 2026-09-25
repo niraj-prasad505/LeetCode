@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/niraj-prasad505/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/niraj-prasad505/LeetCode/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/niraj-prasad505/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0258-add-digits](https://github.com/niraj-prasad505/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/niraj-prasad505/LeetCode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/niraj-prasad505/LeetCode/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/niraj-prasad505/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/niraj-prasad505/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/niraj-prasad505/LeetCode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/niraj-prasad505/LeetCode/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/niraj-prasad505/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -328,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/niraj-prasad505/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/niraj-prasad505/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
