@@ -111,12 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niraj-prasad505/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/niraj-prasad505/LeetCode/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/niraj-prasad505/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/niraj-prasad505/LeetCode/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/niraj-prasad505/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/niraj-prasad505/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Math
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/niraj-prasad505/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/niraj-prasad505/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/niraj-prasad505/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0678-valid-parenthesis-string](https://github.com/niraj-prasad505/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/niraj-prasad505/LeetCode/tree/master/0682-baseball-game) |
 | [0853-car-fleet](https://github.com/niraj-prasad505/LeetCode/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/niraj-prasad505/LeetCode/tree/master/0856-score-of-parentheses) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/niraj-prasad505/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/niraj-prasad505/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/niraj-prasad505/LeetCode/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/niraj-prasad505/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/niraj-prasad505/LeetCode/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/niraj-prasad505/LeetCode/tree/master/0856-score-of-parentheses) |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/niraj-prasad505/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/niraj-prasad505/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/niraj-prasad505/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/niraj-prasad505/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/niraj-prasad505/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/niraj-prasad505/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Counting Sort
