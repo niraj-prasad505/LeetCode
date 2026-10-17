@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/niraj-prasad505/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/niraj-prasad505/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/niraj-prasad505/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/niraj-prasad505/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/niraj-prasad505/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/niraj-prasad505/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/niraj-prasad505/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0853-car-fleet](https://github.com/niraj-prasad505/LeetCode/tree/master/0853-car-fleet) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/niraj-prasad505/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/niraj-prasad505/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Linked List
 |  |
 | ------- |
