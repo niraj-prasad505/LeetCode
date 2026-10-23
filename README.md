@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/niraj-prasad505/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/niraj-prasad505/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/niraj-prasad505/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/niraj-prasad505/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/niraj-prasad505/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/niraj-prasad505/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/niraj-prasad505/LeetCode/tree/master/0191-number-of-1-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/niraj-prasad505/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/niraj-prasad505/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
