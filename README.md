@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/niraj-prasad505/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/niraj-prasad505/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/niraj-prasad505/LeetCode/tree/master/0169-majority-element) |
+| [0212-word-search-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0212-word-search-ii) |
 | [0238-product-of-array-except-self](https://github.com/niraj-prasad505/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/niraj-prasad505/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/niraj-prasad505/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/niraj-prasad505/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0212-word-search-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/niraj-prasad505/LeetCode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/niraj-prasad505/LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/niraj-prasad505/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/niraj-prasad505/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/niraj-prasad505/LeetCode/tree/master/0049-group-anagrams) |
+| [0212-word-search-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/niraj-prasad505/LeetCode/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/niraj-prasad505/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/niraj-prasad505/LeetCode/tree/master/0344-reverse-string) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/niraj-prasad505/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0090-subsets-ii) |
+| [0212-word-search-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/niraj-prasad505/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Bracket Sequences
 |  |
@@ -507,4 +511,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/niraj-prasad505/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
