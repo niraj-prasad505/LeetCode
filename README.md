@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/niraj-prasad505/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/niraj-prasad505/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/niraj-prasad505/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/niraj-prasad505/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/niraj-prasad505/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/niraj-prasad505/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/niraj-prasad505/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/niraj-prasad505/LeetCode/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/niraj-prasad505/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/niraj-prasad505/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/niraj-prasad505/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/niraj-prasad505/LeetCode/tree/master/0002-add-two-numbers) |
 | [0138-copy-list-with-random-pointer](https://github.com/niraj-prasad505/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/niraj-prasad505/LeetCode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/niraj-prasad505/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/niraj-prasad505/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/niraj-prasad505/LeetCode/tree/master/0622-design-circular-queue) |
@@ -515,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/niraj-prasad505/LeetCode/tree/master/0212-word-search-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/niraj-prasad505/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
